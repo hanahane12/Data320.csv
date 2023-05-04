@@ -1,4 +1,4 @@
-ItemType,Author,CopyrightDate,AccessionedDate,ReplacementPrice,MissingDate,CallNumber,PageCount,Runtime,ItemCount,Rate
+ItemType,Author,CopyrightDate,AccessionedDate,ReplacementPrice,MissingDate,CallNumber,PageCount,Runtime,ItemCount,Y_covid
 2,11,1999,25,19,36,96,213,12,12,18
 2,60,2010,37,31,28,45,260,12,12,18
 2,62,1992,1,13,35,49,45,12,12,26
